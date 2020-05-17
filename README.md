@@ -29,7 +29,7 @@ I value keeping my site open source, but as you all know, _**plagiarism is bad**
 
 Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
 
-### TL;DR
+### TL; DR
 
 Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
